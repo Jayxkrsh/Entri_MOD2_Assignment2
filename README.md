@@ -1,0 +1,1 @@
+This report provides a comprehensive analysis of sales data for the Global Superstore, segmented by country, region, market, and shipping mode. It includes interactive visualizations to help stakeholders gain insights into sales perfomance, customer behaviour, and shipping trends across different regions and markets.
